@@ -37,7 +37,7 @@ function convertCurrency() {
   const ghsD = `<img src="https://flagcdn.com/gh.svg" width="50" height="30"; />`;
   setTimeout(() => {
     const ghs = (amount * usdToGhsRate).toFixed(2);
-    outputDiv.innerHTML = `<h2 style="color:green;">${usdC} ${amount} USD = GHS  ${ghsD} ${ghs} </h2> <br> Date  ${new Date().toLocaleDateString()} Time ${new Date().toLocaleTimeString()}`;
+    outputDiv.innerHTML = `<h2 style="color:green;">USD${usdC} ${amount}  = GHS  ${ghsD} ${ghs} </h2> <br> Date  ${new Date().toLocaleDateString()} Time ${new Date().toLocaleTimeString()}`;
   }, 2000);
 }
 
