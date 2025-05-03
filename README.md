@@ -17,7 +17,7 @@ Follow these steps to set up the project locally:
 
 Clone the Repository:
 <pre>  git clone https://github.com/abihuagede/Api_Currency_Convertor.git   </pre> <br>  <pre>cd Api_Currency_Convertor</pre>
-`
+
 
 Open the Project:
 
