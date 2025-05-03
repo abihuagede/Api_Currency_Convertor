@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+
+  outline: #45a049;
+}
+input:focus {
+  outline: none;
+  border: 2px solid #4caf50;
+}
+.output {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #333;
+}
+button {
+  background-color: #45a049;
+  color: white;
+  border: none;
+  padding: 12px 12px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #4caf;
+}
+button:active {
+  padding: 10px 10px;
+  background-color: #c77c0c;
+}
+img.flag {
+  width: 30px;
+  height: 20px;
+  vertical-align: middle;
+}
+small {
+  color: gray;
+  font-size: 0.9rem;
+}
+.authur {
+  color: orange;
+}
+.currencyIMg {
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
+}

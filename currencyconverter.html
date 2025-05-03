@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>USD to GHS Converter</title>
+    <link rel="stylesheet" href="currencyconverter.css" />
+  </head>
+  <body>
+    <h1>USD to GHS MIni Project 1</h1>
+    <img class="currencyIMg" src="images/currency.png" alt="" />
+    <p>
+      This is a simple currency converter that converts USD to GHS using the
+      ExchangeRate-API.
+    </p>
+    <small>Created By <span class="authur"> Abihu Kwashie Agede</span></small
+    ><br />
+
+    <input type="number" id="usdAmount" placeholder="Enter USD amount" />
+    <button onclick="convertCurrency()">Convert</button>
+
+    <div class="output" id="convertedAmount">Exchange rate loading...</div>
+
+    <script src="currencyconverter.js"></script>
+  </body>
+</html>
