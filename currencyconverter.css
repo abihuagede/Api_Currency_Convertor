@@ -19,6 +19,7 @@ input:focus {
 }
 h1 {
   text-transform: capitalize;
+  font-size: 15px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 .output {
