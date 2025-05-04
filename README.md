@@ -1,6 +1,11 @@
 API Currency Converter
 Welcome to the API Currency Converter, a simple and efficient tool designed to convert USD to GHS (Ghanaian Cedis). This project is perfect for developers and users looking for a straightforward solution for currency conversion. If you’d like to see more currencies supported, feel free to drop a comment or suggestion!
 
+<a href="https://abihuagede.github.io/Api_Currency_Convertor/currencyconverter.html">live demo</a>
+
+![Screenshot 2025-05-03 061333](https://github.com/user-attachments/assets/c6b8ddc4-cd94-4706-a9b6-5992af46f69a)
+
+
 Features
 🌍 Currency Conversion: Convert USD to GHS with ease.
 🔄 Real-Time Data: Leverages APIs to ensure accurate and up-to-date conversion rates.
