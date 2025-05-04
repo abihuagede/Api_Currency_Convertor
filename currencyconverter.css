@@ -2,6 +2,8 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin-top: 50px;
+  margin-left: 0%;
+  margin-right: 0%;
 }
 input,
 button {
@@ -21,7 +23,7 @@ h1 {
 }
 .output {
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 10px;
   color: #333;
 
   text-align: left;
@@ -53,6 +55,7 @@ img.flag {
 small {
   color: gray;
   font-size: 0.9rem;
+  margin: 12px;
 }
 .authur {
   color: orange;
